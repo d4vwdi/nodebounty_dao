@@ -24,7 +24,7 @@ public class Node_Model {
 	}
 	public char getA01_email() {
 		return a01_email;
-	}
+	}//commit
 	public void setA01_email(char a01_email) {
 		this.a01_email = a01_email;
 	}
